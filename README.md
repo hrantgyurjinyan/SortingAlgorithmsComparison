@@ -39,7 +39,7 @@ The Sorting Algorithm Comparison project provides a platform to test and compare
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sorting-algorithm-comparison.git
+   git clone https://github.com/hrantgyurjinyan/sorting-algorithm-comparison.git
    ```
 2. Navigate to the project directory:
    ```bash
